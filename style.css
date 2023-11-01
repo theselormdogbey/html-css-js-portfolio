@@ -28,5 +28,5 @@ a, .btn {
 
 /* DESKTOP NAV */
 nav, .nav-links{
-    
+    display: flex;
 }
