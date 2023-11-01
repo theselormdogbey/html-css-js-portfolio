@@ -30,3 +30,7 @@ a, .btn {
 nav, .nav-links{
     display: flex;
 }
+
+nav{
+    justify-content: space-around;
+}
