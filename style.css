@@ -171,3 +171,44 @@ section {
     width: 400px;
     margin: auto 0;
 }
+
+.section__text {
+    align-self: center;
+    text-align: center;
+}
+
+.section__text p{
+    font-weight: 600;
+}
+
+.section__text p1{
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    text-align: center;
+
+}
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+#socials-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+
+/* ICONS */
+.icon {
+    cursor: pointer;
+    height: 2rem;
+}
+
+/* BUTTONS */
+.btn-contianer {
+    display: flex;
+    justify-content: center;
+    
+}
