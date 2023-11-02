@@ -86,8 +86,8 @@ a:hover{
 
 .hamburger-icon span{
     width: 100%;
-    background-color: black;
     height: 2px;
+    background-color: black;
     transition: all 0.3 ease-in-out;
 }
 
@@ -121,7 +121,7 @@ a:hover{
 }
 
 .hamburger-icon.open span:first-child {
-    transform: route(45deg) translate(10px, 5px);
+    transform: rotate(45deg) translate(10px, 5px);
 }
 
 .hamburger-icon.open span:nth-child(2) {
@@ -129,7 +129,7 @@ a:hover{
 }
 
 .hamburger-icon.open span:last-child{
-    transform: route(-45deg) translate(10px, -5px);
+    transform: rotate(-45deg) translate(10px, -5px);
 }
 
 .hamburger-icon span:first-child{
