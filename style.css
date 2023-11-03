@@ -207,7 +207,7 @@ section {
 }
 
 /* BUTTONS */
-.btn-contianer {
+.btn-container {
     display: flex;
     justify-content: center;
     gap: 1rem;
